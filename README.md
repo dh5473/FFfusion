@@ -1,6 +1,6 @@
 # FFfusion
 
-![FFfusion 무한짤봇 사진](https://github.com/I-fong/.github/assets/92140163/4233df17-c69e-4656-ab4a-61ce99e5cfb1)
+<img src="https://github.com/I-fong/.github/assets/92140163/4233df17-c69e-4656-ab4a-61ce99e5cfb1" width=350 height=300 />
 
 ## 무한짤봇
 ```
@@ -113,8 +113,8 @@ Swapping을 진행할 때는 처음 Face detection 을 통해 얻은 FaceAnalysi
 ## 💻 Web Preview
 <!-- <table> -->
   <tr>
-    <td><img src="https://github.com/I-fong/.github/assets/92140163/2b1c7e55-5e4a-463e-a7a2-92dbad234cb8"></td>
-    <td><img src="https://github.com/I-fong/.github/assets/92140163/21d73bcb-e695-455d-8fe0-a646c47fd8f5"></td>
+    <td><img src="https://github.com/dh5473/FFfusion/assets/94889715/c07de9e0-ae4a-4785-9ec2-9e3e430d61fc"></td>
+    <td><img src="https://github.com/dh5473/FFfusion/assets/94889715/8b124956-dc0a-4a5c-ab09-1256cbdddff7"></td>
     <td><img src="https://github.com/I-fong/.github/assets/92140163/4dfd4f7f-6693-4b75-b596-323e1a8b9c29">
     </td>
     <td><img src="https://github.com/I-fong/.github/assets/92140163/dd9fcde3-abd3-4e3b-bd93-bbb4736f6649"></td>
