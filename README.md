@@ -34,8 +34,8 @@
     <td><img src="https://github.com/I-fong/.github/assets/92140163/f4552c44-3921-4e53-aee8-7f16849cbb87"height="200" width="300"></td>
   </tr>
   <tr>
-    <td>얼굴이 못생겼다고 놀리고 있다.</td>
     <td>생일 축하를 받아 고마워 하고 있다.</td>
+    <td>얼굴이 못생겼다고 놀리고 있다.</td>
   </tr>
 </table>
 
